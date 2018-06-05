@@ -1,0 +1,12 @@
+---
+title: "HelloWorld.md"
+author: "Alejandro R. Domingo"
+date: "5 de junio de 2018"
+output: pdf_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## This is a R Markdown file
